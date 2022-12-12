@@ -325,8 +325,6 @@ p {
   width: 50%;
   height: 100%;
   background-position: center;
-  /* background-size: cover; 
-  min-height: 100%; */
 }
 
 .modal-content-frontimg {
@@ -341,18 +339,6 @@ p {
   display: block;
   margin: auto;
   /* overflow:hidden; */
-}
-
-/* Model content for the text */
-#caption {
-  text-align: center;
-  margin: auto;
-  display: block;
-  width: 80%;
-  max-width: 700px;
-  color: #ccc;
-  padding: 5vh 0;
-  /* height: 150px; */
 }
 
 /* Animation for pop-up of images */
